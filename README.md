@@ -1,3 +1,3 @@
 # -Twitter-clone-React-native-typescript-aws-amplify-graphql.
 TYPE npm install
-![image](https://user-images.githubusercontent.com/44243512/136371259-1028ecff-1fbe-480d-beb9-8aa3cbdb1f1d.png)
+ ![WhatsApp Image 2021-10-07 at 4 24 36 PM](https://user-images.githubusercontent.com/44243512/136371338-26f4a3fb-107a-4f11-b4d1-9aebcf083b1e.jpeg)
