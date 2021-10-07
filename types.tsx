@@ -32,6 +32,7 @@ export type RootTabParamList = {
   Messages:undefined;
  
 };
+ 
 export type UserType={
   id:string,
   username:string,
