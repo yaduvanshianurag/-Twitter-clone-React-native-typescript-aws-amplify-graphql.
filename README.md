@@ -1,5 +1,5 @@
 # -Twitter-clone-React-native-typescript-aws-amplify-graphql.
-TYPE npm install.
+TYPE npm install-
 For Amplify Setup go to - https://docs.amplify.aws/start/q/integration/react-native/
 
 
